@@ -49,7 +49,7 @@
         <div class="container-fluid">
           <div class="row">
                 <div class="col-lg-6 col-md-8 col-sm-6 col-xs-12 ">
-                  <p>Av. Roraima - n° 1000 , Bairo Camobi, Santa Maria, Brasil  -  Contato: (99)99999.9999 - (11)11111.1111</p>
+                 
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-6 col-xs-12 ">
                   <div class="header__actions"><a href="#">Login & Registro</a>
