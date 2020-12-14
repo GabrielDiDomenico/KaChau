@@ -10,27 +10,27 @@
             <form class="ps-contact__form" action="do_action" method="post">
                 <div class="form-group">
                 <label>Nome Completo <sub>*</sub></label>
-                <input class="form-control" type="text" placeholder=""> 
+                <input class="form-control" type="text" placeholder="fetch_username"> 
                 </div>
                 <div class="form-group">
                 <label>Data de Nascimento <sub>*</sub></label>
-                <input class="form-control" type="text" placeholder=""> 
+                <input class="form-control" type="text" placeholder="fetch_userdate"> 
                 </div>
                 <div class="form-group">
                 <label>CPF <sub>*</sub></label>
-                <input class="form-control" type="text" placeholder=""> 
+                <input class="form-control" type="text" placeholder="fetch_user_cpf"> 
                 </div>
                 <div class="form-group">
                 <label>Celular <sub>*</sub></label>
-                <input class="form-control" type="text" placeholder=""> 
+                <input class="form-control" type="text" placeholder="fetch_usercell"> 
                 </div>
                 <div class="form-group">
                 <label>Email <sub>*</sub></label>
-                <input class="form-control" type="text" placeholder=""> 
+                <input class="form-control" type="text" placeholder="fetch_useremail"> 
                 </div>
                 <div class="form-group">
                 <label>Senha <sub>*</sub></label>
-                <input class="form-control" type="password" placeholder="">
+                <input class="form-control" type="password" placeholder="fetch_user_password">
                 </div>
                 <div class="form-group">
                 <button class="ps-btn">Alterar<i class="ps-icon-next"></i></button>

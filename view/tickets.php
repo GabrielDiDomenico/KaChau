@@ -16,6 +16,18 @@
 		</div>
 	</div>
 </div>
+<div class="ps-container pt-40 mb-40">
+	<div class="row">
+	<div class="col-lg-3 col-md-3 col-sm-0 col-xs-0 ">
+	</div>
+	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+		
+	</div>
+	<div class="col-lg-3 col-md-3 col-sm-0 col-xs-0 ">
+		<button style="border: none; border-radius: 5px; background-color: #2AC37D; color:white; width: 150px; height: 40px;"><i class="fa fa-plus" aria-hidden="true"></i> Novo ticket</button>
+	</div>
+	</div>
+</div>
 <div class="row">
 		<div class="col-lg-1 col-md-1 col-sm-0 col-xs-0" >
 		</div>
